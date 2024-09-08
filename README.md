@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maid Mešić</h1>
 <h3 align="center">A web developer from Bosnia</h3>
 
-<p>Currently Student At Internacionalna poslovno-informaciona akademija</p>
+<p>Currently Student At Internacionalna poslovno-informaciona akademija Tuzla</p>
 
 <hr>
 
