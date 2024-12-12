@@ -19,8 +19,6 @@
 
 - 🔭 Working on Web Apps
 
-- 🌱 I’m currently learning **MSSQL**
-
 - 📫 How to reach me:**maidmesic0503@gmail.com**
 
 <hr>
